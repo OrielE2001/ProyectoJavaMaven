@@ -1,7 +1,0 @@
-organization=oriele2001
-projectKey=OrielE2001_ProyectoJavaMaven
-serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.21709
-dashboardUrl=https://sonarcloud.io/dashboard?id=OrielE2001_ProyectoJavaMaven
-ceTaskId=AXqilCnNrfYeZHroA5Mg
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXqilCnNrfYeZHroA5Mg
