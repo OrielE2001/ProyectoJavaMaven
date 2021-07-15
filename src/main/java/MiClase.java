@@ -8,6 +8,10 @@ public class MiClase {
             primo = false;
             contador++;
         }
+<<<<<<< HEAD
         return primo
+=======
+        return primo;
+>>>>>>> parent of 2c249ad (Mas agragados)
     }
 }
